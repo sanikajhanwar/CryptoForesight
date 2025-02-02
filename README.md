@@ -38,7 +38,7 @@ Ensure you have Python installed.
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/CryptoForesight.git
+git clone https://github.com/sanikajhanwar/CryptoForesight.git
 cd CryptoForesight
 
 # Install dependencies
